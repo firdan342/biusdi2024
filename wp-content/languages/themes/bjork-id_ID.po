@@ -1,0 +1,528 @@
+# Translation of Themes - Björk in Indonesian
+# This file is distributed under the same license as the Themes - Björk package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-05 12:12:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Björk\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Björk is a minimal theme for blogs and personal websites. It features a sticky sidebar menu on desktop for quick and easy navigation, and the clean design puts your content front and center. Björk comes with seven different theme styles to choose from, and over 15 different block patterns that you can use to quickly build unique page layouts. Demo: https://andersnoren.se/themes/bjork/"
+msgstr "Björk adalah tema minimalis untuk blog dan situs web pribadi. Dengan tampilan menu bilah sisi (sidebar) yang melekat (sticky) di desktop untuk navigasi yang cepat dan mudah, dan desain yang bersih menempatkan konten Anda di depan dan di tengah. Björk hadir dengan tujuh gaya tema berbeda untuk dipilih, dan lebih dari 15 pola blok berbeda yang dapat Anda gunakan untuk membuat tata letak halaman unik dengan cepat. Demo: https://andersnoren.se/themes/bjork/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Björk"
+msgstr "Björk"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Body Margin"
+msgstr "Margin Body"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "8"
+msgstr "8"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: styles/simone.json
+msgctxt "Style variation name"
+msgid "Simone"
+msgstr "Simone"
+
+#: styles/leon.json
+msgctxt "Style variation name"
+msgid "Léon"
+msgstr "Léon"
+
+#: styles/helena.json
+msgctxt "Style variation name"
+msgid "Helena"
+msgstr "Helena"
+
+#: styles/dolores.json
+msgctxt "Style variation name"
+msgid "Dolores"
+msgstr "Dolores"
+
+#: styles/cliff.json
+msgctxt "Style variation name"
+msgid "Cliff"
+msgstr "Cliff"
+
+#: styles/clayton.json
+msgctxt "Style variation name"
+msgid "Clayton"
+msgstr "Clayton"
+
+#: styles/burton.json
+msgctxt "Style variation name"
+msgid "Burton"
+msgstr "Burton"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Komentar"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Loop"
+msgstr "Loop"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar (Desktop)"
+msgstr "Sidebar (Desktop)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (Mobile)"
+msgstr "Header (Ponsel)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title"
+msgstr "Tanpa Judul"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank Canvas"
+msgstr "Kanvas Kosong"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Tertiary"
+msgstr "Kuarter ke Tersier"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Secondary"
+msgstr "Kuarter ke Sekunder"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Primary"
+msgstr "Kuarter ke Utama"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Foreground"
+msgstr "Kuarter ke Latar Depan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Background"
+msgstr "Kuarter ke Latar Belakang"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Quaternary"
+msgstr "Tersier ke Kuarter"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr "Tersier ke Sekunder"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Primary"
+msgstr "Tersier ke Utama"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Foreground"
+msgstr "Tersier ke Latar depan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Background"
+msgstr "Tersier ke Latar belakang"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Tertiary"
+msgstr "Sekunder ke Tersier"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Quaternary"
+msgstr "Sekunder ke Kuarter"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Primary"
+msgstr "Sekunder ke Primer"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Foreground"
+msgstr "Sekunder ke Latar depan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Background"
+msgstr "Sekunder ke Latar belakang"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Tertiary"
+msgstr "Primer ke Tersier"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Quaternary"
+msgstr "Primer ke Kuarter"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Secondary"
+msgstr "Primer ke Sekunder"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Foreground"
+msgstr "Primer ke Latar depan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary to Background"
+msgstr "Primer ke Latar belakang"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Tertiary"
+msgstr "Latar belakang ke Tersier"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Quaternary"
+msgstr "Latar belakang ke Kuarter"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Secondary"
+msgstr "Latar belakang ke Sekunder"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Primary"
+msgstr "Latar belakang ke Primer"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Foreground"
+msgstr "Latar belakang ke Latar depan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Tertiary"
+msgstr "Latar depan ke Tersier"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Quaternary"
+msgstr "Latar depan ke Kuarter"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Secondary"
+msgstr "Latar depan ke Sekunder"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Primary"
+msgstr "Latar depan ke Primer"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Foreground to Background"
+msgstr "Latar depan ke Latar belakang"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Kuarter"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tersier"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Utama"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Latar belakang"
+
+#: styles/burton.json styles/clayton.json styles/cliff.json styles/dolores.json
+#: styles/helena.json styles/leon.json styles/simone.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Latar depan"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Monospace"
+msgstr "System Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Serif"
+msgstr "System Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Sans Serif"
+msgstr "System Sans Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Albert Sans"
+msgstr "Albert Sans"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Heading 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Heading 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Heading 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Huge"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Ekstra besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Sangat Kecil"
+
+#: patterns/general-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials section."
+msgstr "Bagian Testimoni"
+
+#: patterns/general-recent-posts.php
+msgctxt "Pattern title"
+msgid "Section with recent posts displayed horizontally."
+msgstr "Bagian dengan postingan terbaru ditampilkan secara horizontal."
+
+#: patterns/general-hero-wide.php
+msgctxt "Pattern title"
+msgid "Wide hero with headings and buttons."
+msgstr "Hero lebar dengan judul dan tombol."
+
+#: patterns/general-hero-full-height.php
+msgctxt "Pattern title"
+msgid "Full height hero with headings and buttons."
+msgstr "Hero tinggi penuh dengan judul dan tombol."
+
+#: patterns/general-hero-full-height-wide.php
+msgctxt "Pattern title"
+msgid "Wide and full height hero with headings and buttons."
+msgstr "Hero lebar dan tinggi penuh dengan judul dan tombol."
+
+#: patterns/general-follow-us-vertical.php
+msgctxt "Pattern title"
+msgid "Follow us section with a vertical layout."
+msgstr "Bagian Ikuti kami dengan tata letak vertikal."
+
+#: patterns/general-follow-us-horizontal.php
+msgctxt "Pattern title"
+msgid "Follow us section with a horizontal layout."
+msgstr "Bagian Ikuti kami dengan tata letak horizontal."
+
+#: patterns/general-featured-items.php
+msgctxt "Pattern title"
+msgid "Featured items with a image, heading, paragraph and button."
+msgstr "Item unggulan dengan gambar, judul, paragraf, dan tombol."
+
+#: patterns/general-demo-content.php
+msgctxt "Pattern title"
+msgid "Demo content for the theme, and default content for the Home template."
+msgstr "Konten demo untuk tema dan konten default untuk templat Beranda."
+
+#: patterns/general-columns-with-paragraphs.php
+msgctxt "Pattern title"
+msgid "Columns with paragraphs of text."
+msgstr "Kolom dengan paragraf teks."
+
+#: patterns/cta-vertical.php
+msgctxt "Pattern title"
+msgid "Vertical call to action."
+msgstr "Vertikal call to action."
+
+#: patterns/cta-horizontal.php
+msgctxt "Pattern title"
+msgid "Horizontal call to action."
+msgstr "Horizontal call to action."
+
+#: patterns/blog-list.php
+msgctxt "Pattern title"
+msgid "Blog post list with featured image, post date, and title."
+msgstr "Daftar posting blog dengan gambar unggulan, tanggal posting, dan judul."
+
+#: patterns/blog-grid-cols-3.php
+msgctxt "Pattern title"
+msgid "Three column blog post grid with featured image, post date, and title."
+msgstr "Kisi artikel blog tiga kolom dengan gambar unggulan, tanggal posting, dan judul."
+
+#: patterns/blog-grid-cols-2.php
+msgctxt "Pattern title"
+msgid "Two column blog post grid with featured image, post date, and title."
+msgstr "Kisi artikel blog dua kolom dengan gambar unggulan, tanggal posting, dan judul."
+
+#: patterns/blog-excerpt.php
+msgctxt "Pattern title"
+msgid "Blog posts shown as excerpts."
+msgstr "Postingan blog ditampilkan sebagai kutipan."
+
+#: functions.php:78
+msgid "Angled Wide"
+msgstr "Sudut Luas"
+
+#: functions.php:72
+msgid "Angled"
+msgstr "Sudut"
+
+#: functions.php:41
+msgid "Björk General"
+msgstr "Björk General"
+
+#: functions.php:38
+msgid "Björk Call to Action"
+msgstr "Björk Call to Action"
+
+#: functions.php:35
+msgid "Björk Blog"
+msgstr "Björk Blog"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://andersnoren.se"
+msgstr "https://andersnoren.se"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://andersnoren.se/teman/bjork-wordpress-theme/"
+msgstr "https://andersnoren.se/teman/bjork-wordpress-theme/"
